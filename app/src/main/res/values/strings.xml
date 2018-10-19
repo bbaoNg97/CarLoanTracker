@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Car Loan Tracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu">Main Menu</string>
+    <string name="profile">My Profile</string>
+    <string name="car_loan">Manage Car Loan</string>
+    <string name="car">Browse Car</string>
+    <string name="road_tax">My RoadTax</string>
+    <string name="insurance">My Insurance</string>
+    <string name="calculate">Calculate</string>
+    <string name="interest">Interest?</string>
+    <string name="pay">Pay Loan</string>
+    <string name="add">Add Record</string>
+    <string name="intro">Welcome to Car Loan Tracker!\nThis app is to help you manage your car loan(s) and keep track of the price of the latest car.</string>
+    <string name="intro2"> Developed by :\n\t\t\tChan Yong Hua\n\t\t\tNg Li Poh </string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">No account? Register here!</string>
+    <string name="login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="dash">-</string>
+    <string name="reset">Reset</string>
+    <string name="insert_user_url">http://carloantracker.000webhostapp.com/Login/insert_user.php</string>
+    <string name="get_user_url">https://carloantracker.000webhostapp.com/Login/get_user.php</string>
+    <string name="login_url">https://carloantracker.000webhostapp.com/Login/Login.php</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit Profile</string>
+    <string name="changePw">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="new_confirmPw">Confirm Password</string>
+    <string name="changePW_url">https://carloantracker.000webhostapp.com/Login/update_password.php</string>
+    <string name="updateProfile_url">https://carloantracker.000webhostapp.com/Login/update_profile.php</string>
+
+
+    <string-array name="years">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="banks">
+        <item>MayBank</item>
+        <item>Public Bank</item>
+        <item>Hong Leong Bank</item>
+        <item>Am Bank</item>
+        <item>UOB Bank</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Saloon</item>
+        <item>Non-Saloon</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Proton</item>
+        <item>Perodua</item>
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Nissan</item>
+        <item>Audi</item>
+        <item>Mazda</item>
+        <item>Mercedes</item>
+
+    </string-array>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_edit_info">EditInfoActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
